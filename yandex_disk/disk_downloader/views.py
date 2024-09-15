@@ -3,7 +3,7 @@ from django.shortcuts import render
 
 from .api import get_public_files
 from .forms import PublicKeyForm
-from .utils import get_file_type
+
 
 
 # Функция получения списка файлов с Яндекс.Диска
